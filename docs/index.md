@@ -59,8 +59,8 @@ We will use several channels to communicate with all participants:
 	- Participant registered using work email address.
     - Participant will send Lab Result via email to the event organizer.
 
-2. Telegram channel 
-	- You can join to the Telegram channel [Getting Started AWS Workshop]( https://t.me/joinchat/eswPWmqbObQ4N2Fl). 
+2. Telegram group 
+	- You can join to the Telegram group [Getting Started AWS Workshop]( https://t.me/joinchat/eswPWmqbObQ4N2Fl). 
     - Please introduce yourself according to the registration detail.
 	- We will Telegram channel to discuss contents & labs 
         

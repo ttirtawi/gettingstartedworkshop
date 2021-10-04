@@ -35,11 +35,11 @@ Lab will be started on 7th October 2021 4.30PM. You can do the labs until Sunday
     5. Show us the Transit Gateway status, Transit Gateway Attachment status (from Transit Gateway page)
     6. Show us the ping result after using Transit Gateway
 
-3. Share your screenshots on the Slack channel, no more than Sunday 10th October 2021 1PM.
+3. Submit your screenshots via email to `velialee@amazon.com, effends@amazon.com, tirtawid@amazon.com`, not later than Sunday 10th October 2021 1PM.
 4. We will validate the result & give 5 points for correct submission.
 
 ## How to get help
-1. Reach out to the facilitator over Slack channel.
+1. Reach out to the facilitator over Telegram group.
 2. Tell the facilitator which step you are stuck on.
 3. Share the screenshot of the lab on which you encounter the issue.
 
