@@ -55,15 +55,15 @@
 We will use several channels to communicate with all participants:
 
 1. Email
-	- Official channel to update all participants
-	- Participant registered using work email address
+	- Official channel to update all participants.
+	- Participant registered using work email address.
+    - Participant will send Lab Result via email to the event organizer.
 
-2. Slack 
-	- Event organizer will invite you to the Slack channel (will invite using your registered work email).
-	- We will Slack for 
-        1. Interactive chat to discuss contents & labs 
-        2. Use Submit the Lab Result
-
+2. Telegram channel 
+	- You can join to the Telegram channel [Getting Started AWS Workshop]( https://t.me/joinchat/eswPWmqbObQ4N2Fl). 
+    - Please introduce yourself according to the registration detail.
+	- We will Telegram channel to discuss contents & labs 
+        
 3. Go To Webinar 
 	- Class room will be delivered using GTW.
 	- Attendance participation will be measured by GTW.
@@ -79,7 +79,7 @@ We will use several channels to communicate with all participants:
 ## Lab Guide
 - We will use Event Engine for running the lab. [Click here](labguide.md) to learn how to use Event Engine.
 - Event engine hash code:
-    - Week 1 : a8a3-18ed1ea8b4-7c
+    - Week 1 : `a8a3-18ed1ea8b4-7c`
     - Week 2 : ...
     - Week 3 : ...
     - Week 4 : ...
