@@ -1,0 +1,5 @@
+site_name: 'Getting Started with AWS'
+site_url: https://example.com/
+nav:
+  - Home: index.md
+# theme: readthedocs
