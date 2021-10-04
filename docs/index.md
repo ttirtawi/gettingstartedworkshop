@@ -46,10 +46,9 @@
 
 ## Facilitator
 
-* Veliana Lee (velialee@amazon.com)
-* Tedy Tirtawidjaja (tirtawid@amazon.com)
-* Effendi Sihaloho (effends@amazon.com)
-
+* Veliana Lee (AWS Enterprise Sales Executive)
+* Effendi Sihaloho (AWS Solutions Architect)
+* Tedy Tirtawidjaja (AWS Senior Solutions Architect)
 
 ## Communication Channel
 
@@ -66,27 +65,28 @@ We will use several channels to communicate with all participants:
         2. Use Submit the Lab Result
 
 3. Go To Webinar 
-	- Class room will be delivered using GTW
-	- Attendance participation will be measured by GTW
+	- Class room will be delivered using GTW.
+	- Attendance participation will be measured by GTW.
+    - [Click here](https://support.goto.com/webinar/att-user-guide) to find out how to join webinar.
 
 4. Slido
-	- We will use Slido for quiz
+	- We will use Slido for quiz (Click here to join: [https://www.sli.do/](https://www.sli.do/) )
 	- You can participate from phone or laptop
 	- Make sure to use your work email to join the quiz
-    - Slido link: ... 
+    - Slido Code: #896441 
 
 
 ## Lab Guide
-- We will use Event Engine for running the lab. [Click here](labguide) to learn how to use Event Engine.
+- We will use Event Engine for running the lab. [Click here](labguide.md) to learn how to use Event Engine.
 - Event engine hash code:
     - Week 1 : a8a3-18ed1ea8b4-7c
     - Week 2 : ...
     - Week 3 : ...
     - Week 4 : ...
 
-## Lab scenario
+## Lab Scenario
 
-- Week 1 : ...
+- Week 1 : [Lab 1](lab1.md)
 - Week 2 : ...
 - Week 3 : ...
 - Week 4 : ...
