@@ -3,3 +3,10 @@ site_url: https://example.com/
 nav:
   - Home: index.md
 # theme: readthedocs
+# theme:
+#   name: material
+#   palette:
+#     scheme: default
+#     primary: black
+#   features:
+#     - toc.integrate
