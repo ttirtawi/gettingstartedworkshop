@@ -81,14 +81,14 @@ We will use several channels to communicate with all participants:
 - Event engine hash code:
     - Week 1 : `a8a3-18ed1ea8b4-7c`
     - Week 2 : `1365-19618e7a74-ae`
-    - Week 3 : ...
-    - Week 4 : ...
+    - Week 3 : `9e74-11b5314ce4-a4`
+    - Week 4 : `c9bd-1b1aaa9d94-6a`
 
 ## Lab Scenario
 
 - Week 1 : [Lab 1](lab1.md)
 - Week 2 : [Lab 2](lab2.md)
-- Week 3 : ...
+- Week 3 : [Lab 3](lab3.md)
 - Week 4 : ...
 
 ## Presentation material
@@ -102,5 +102,5 @@ We will use several channels to communicate with all participants:
 
 - Week 1 : [https://eventbox.dev/survey/NLTN56M](https://eventbox.dev/survey/NLTN56M) 
 - Week 2 : [https://eventbox.dev/survey/J4ISFD0](https://eventbox.dev/survey/J4ISFD0)
-- Week 3 : ...
+- Week 3 : [https://eventbox.dev/survey/V3R5YTQ](https://eventbox.dev/survey/V3R5YTQ)
 - Week 4 : ...
