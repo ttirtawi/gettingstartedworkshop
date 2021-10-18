@@ -1,7 +1,7 @@
 # Lab 3 - Amazon RDS PostgreSQL
 
 ## Goals
-This lab is intended to provide you hands-on experience in creating PostgreSQL database instance in Amazon Relational Database Service (RDS). You will run some foundational activities below: 
+This lab is intended to provide you hands-on experience in managing PostgreSQL database instance in Amazon Relational Database Service (RDS). You will run some foundational activities below: 
 
 1. Create PostgreSQL database instance, 
 2. Setup database client in Amazon Cloud9 to connect to the database instance,
