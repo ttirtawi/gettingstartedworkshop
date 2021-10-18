@@ -79,16 +79,16 @@
 
 <h1 id="lab-3-amazon-rds-postgresql">Lab 3 - Amazon RDS PostgreSQL</h1>
 <h2 id="goals">Goals</h2>
-<p>This lab is intended to provide you hands-on experience in managing PostgreSQL database instance in Amazon Relational Database Service (RDS). You will run some foundational activities below: </p>
+<p>This lab is intended to provides you hands-on experience managing PostgreSQL database instance in Amazon Relational Database Service (RDS). You will run some basic activities below: </p>
 <ol>
-<li>Create PostgreSQL database instance, </li>
+<li>Create RDS PostgreSQL database instance, </li>
 <li>Setup database client in Amazon Cloud9 to connect to the database instance,</li>
 <li>Scaling database both vertically &amp; horizontally, </li>
-<li>Setup Highly Available database &amp; run failover test,</li>
+<li>Setup highly available database &amp; run failover test,</li>
 <li>Perform backup &amp; restore of the database instance,</li>
-<li>(Optional) Monitor the performance,</li>
-<li>(Optional) Setup custom paramater,</li>
-<li>(Optional) Configure IAM database authentication</li>
+<li>(Optional) Monitor database performance,</li>
+<li>(Optional) Setup RDS custom parameter,</li>
+<li>(Optional) Configure IAM database authentication,</li>
 <li>(Optional) Basic intro to PostgreSQL &amp; <code>pgadmin</code>.</li>
 </ol>
 <blockquote>
@@ -96,12 +96,12 @@
 </blockquote>
 <p>There are 9 checkpoints of this lab:</p>
 <ol>
-<li>Complete the lab Prerequisite (make sure you can access the Cloud9 instance).</li>
+<li>Complete the lab Prerequisites (make sure you can access the Cloud9 instance).</li>
 <li>Create RDS PostgreSQL database instance.</li>
-<li>Setup &amp; connect database SQL from Amazon Cloud9 instance.</li>
-<li>Create RDS Read Replica &amp; promote it as new database instance.</li>
-<li>Scaling up the RDS instance.</li>
-<li>Setup highly availability by enabling Multi-AZ &amp; test the failover.</li>
+<li>Setup SQL client &amp; connect to the database from Amazon Cloud9 instance.</li>
+<li>Create RDS Read Replica &amp; then promote the Read Replica as new standalone database instance.</li>
+<li>Scaling up the RDS database instance.</li>
+<li>Setup highly availability by enabling Multi-AZ &amp; run failover test.</li>
 <li>Configure automated &amp; manual backup.</li>
 <li>Restore database from the backup.</li>
 <li>Upgrade database engine version.</li>
@@ -116,17 +116,17 @@
 <p>Lab will be started on 21st October 2021 4.30PM. You can do the labs until Sunday 24th October 2021 12PM noon. </p>
 <h2 id="how-to-get-points">How to get points</h2>
 <ol>
-<li>Complete all the steps on <a href="https://rdspg.workshop.aws/">Lab 3:  Amazon RDS PostgresSQL Workshop</a> only on sections <strong>Prerequisites</strong> &amp; <strong>Foundation</strong>.</li>
+<li>Complete all the steps in <a href="https://rdspg.workshop.aws/">Lab 3:  Amazon RDS PostgresSQL Workshop</a> specifically only on 2 sections: <strong>Prerequisites</strong> &amp; <strong>Foundation</strong>.</li>
 <li>
-<p>Take screenshots on the following section:</p>
+<p>Collect the following information:</p>
 <ol>
 <li>Take screenshot of the CloudFormation Outputs section (it should have Cloud9 URL, Lab VPC ID, and Database Security Group ID).</li>
 <li>Open your Cloud9 URL &amp; take screenshot of your Cloud9 environment.</li>
 <li>Take screenshot of your RDS PostgreSQL instance, showing the Endpoint &amp; port section in the Connectivity and security tab of the details page.</li>
 <li>Take screenshot of AWS Secret Manager (showing the detail view of your secret).</li>
 <li>
-<p>Take screenshot of your Cloud9's terminal, showing the output of this SQL command: </p>
-<p><code>select current_user, current_database();</code></p>
+<p>Take screenshot of your Cloud9's terminal, showing the output of this SQL command: 
+    <code>select current_user, current_database();</code></p>
 </li>
 <li>
 <p>Take screenshot of database instance list (you should have original database instance &amp; its read replica). Capture also the detail page for the read replica instance.</p>
