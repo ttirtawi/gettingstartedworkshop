@@ -50,7 +50,10 @@ Lab will be started on 21st October 2021 4.30PM. You can do the labs until Sunda
     3. Take screenshot of your RDS PostgreSQL instance, showing the Endpoint & port section in the Connectivity and security tab of the details page.
     4. Take screenshot of AWS Secret Manager (showing the detail view of your secret).
     5. Take screenshot of your Cloud9's terminal, showing the output of this SQL command: 
-        `select current_user, current_database();`
+
+        ```
+        select current_user, current_database();
+        ```
         
     6. Take screenshot of database instance list (you should have original database instance & its read replica). Capture also the detail page for the read replica instance.
     7. Take screenshot of new database instance created after you promoted the read replica.
