@@ -8,6 +8,9 @@ This lab is intended to provide you hands-on experience in configuring EC2 insta
 There are 6 checkpoints of this lab:
 
 1. Complete the lab prerequisite
+
+    > **Note** When asked to specify VPC, please use Default VPC in ap-southeast-1 region (172.31.0.0/16).
+
 2. Create launch-template, to be used as template for new instance scaled from the ASG
 3. Create auto scaling group, where you will configure the scaling policies
 4. Create security group, used by the auto-scaling group to ensure you can access the instance from internet (not a best practice for production environment)
