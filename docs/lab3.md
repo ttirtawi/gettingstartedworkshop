@@ -38,6 +38,8 @@ Please visit this link for the detail lab instruction [Lab 3:  Amazon RDS Postgr
 
 > If you find **us-east-1b** in the guide, remember to change it to **ap-southeast-1b**
 
+> If you find PostgreSQL version **11.5-R1**, please use **11.11** instead as 11.05 already obsolete.
+
 Lab will be started on 21st October 2021 4.30PM. You can do the labs until Sunday 24th October 2021 12PM noon. 
 
 ## How to get points

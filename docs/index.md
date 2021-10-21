@@ -95,7 +95,7 @@ We will use several channels to communicate with all participants:
 
 - Week 1 : [Download here - expired 14 Oct 2021](https://bit.ly/2ZTFg5B)
 - Week 2 : [Download here - expired 21 Oct 2021](https://bit.ly/2XcoGgv)
-- Week 3 : ...
+- Week 3 : [Download here - expired 28 Oct 2021](https://bit.ly/2XvrV2y)
 - Week 4 : ...
 
 ## CSAT Survey
