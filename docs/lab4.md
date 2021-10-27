@@ -6,6 +6,7 @@ This lab is intended to provide you hands-on experience in configuring some of t
 > ***Note**: Before you start, please pay attention on the instruction given on each steps, and please ensure you captured the right result before submitting it through email*
 
 There are 4 checkpoints of this lab:
+
 1. Launch EC2 instance with tags
 2. Create AWS IAM identities
 3. Test the access for resources
