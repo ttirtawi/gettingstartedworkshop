@@ -89,7 +89,7 @@ We will use several channels to communicate with all participants:
 - Week 1 : [Lab 1](lab1.md)
 - Week 2 : [Lab 2](lab2.md)
 - Week 3 : [Lab 3](lab3.md)
-- Week 4 : ...
+- Week 4 : [Lab 4](lab4.md)
 
 ## Presentation material
 
@@ -103,4 +103,4 @@ We will use several channels to communicate with all participants:
 - Week 1 : [https://eventbox.dev/survey/NLTN56M](https://eventbox.dev/survey/NLTN56M) 
 - Week 2 : [https://eventbox.dev/survey/J4ISFD0](https://eventbox.dev/survey/J4ISFD0)
 - Week 3 : [https://eventbox.dev/survey/V3R5YTQ](https://eventbox.dev/survey/V3R5YTQ)
-- Week 4 : ...
+- Week 4 : [https://eventbox.dev/survey/2G1T59Y](https://eventbox.dev/survey/2G1T59Y)
