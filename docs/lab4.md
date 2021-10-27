@@ -3,7 +3,8 @@
 ## Goals
 This lab is intended to provide you hands-on experience in configuring some of the IAM principals. You will be building the IAM policy and attach it to IAM identity, and then test the policy accordingly.
 
-> ***Note**: Before you start, please pay attention on the instruction given on each steps, and please ensure you captured the right result before submitting it through email
+> ***Note**: Before you start, please pay attention on the instruction given on each steps, and please ensure you captured the right result before submitting it through email*
+
 There are 4 checkpoints of this lab:
 1. Launch EC2 instance with tags
 2. Create AWS IAM identities
